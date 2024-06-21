@@ -1,0 +1,989 @@
+study,title,outcome.number,outcome.variable,outcome.name,outcome.text,outcome.text.descaled,outcome.scale,outcome.limits,outcome.lower,outcome.upper,scale.direction.intuitive,exclude,fails_criterion3,Notes,hypothesis_notes,hyp1,hyp2,hyp3,hyp4
+ThorsonS42,Effects of Misinformation News Coverage on Media Trust,1,"Q6_2_THORSONC, Q6_1_THORSONC",Facebook,"How much do you trust news from the following sources?
+
+Facebook","How much do you trust news from the following sources?
+
+Facebook","1        1 - Not at all
+2        2
+3        3
+4        4
+5        5 - A great deal
+77        DON'T KNOW
+98        SKIPPED ON WEB
+99        REFUSED",1-5,1 - Not at all,5 - A great deal,1,0,0,"The variable for the main DV that asks about trust in various news sources has two versions based on whether participants see the misinfo/social media questions first or not. If they see those questions first, then the DV variable is Q6_1_Thorson (conditions 2 and 3) but, if not, then Q6_2_Thorson (condition 1).",,,,,
+ThorsonS42,Effects of Misinformation News Coverage on Media Trust,2,"Q6_2_THORSONB, Q6_1_THORSONB",National newspapers,"How much do you trust news from the following sources?
+
+National newspapers","How much do you trust news from the following sources?
+
+National newspapers","1        1 - Not at all
+2        2
+3        3
+4        4
+5        5 - A great deal
+77        DON'T KNOW
+98        SKIPPED ON WEB
+99        REFUSED",1-5,1 - Not at all,5 - A great deal,1,0,0,,,,,,
+ThorsonS42,Effects of Misinformation News Coverage on Media Trust,3,"Q6_2_THORSONA, Q6_1_THORSONA",Local Newspapers,"How much do you trust news from the following sources?
+
+Local newspapers","How much do you trust news from the following sources?
+
+Local newspapers","1        1 - Not at all
+2        2
+3        3
+4        4
+5        5 - A great deal
+77        DON'T KNOW
+98        SKIPPED ON WEB
+99        REFUSED",1-5,1 - Not at all,5 - A great deal,1,0,0,,,,,,
+Blair1131,Do Women Make More Credible Threats? Gender Stereotypes and Crisis Bargaining,1,Q3,Approve_Handling,To what extent do you disapprove or approve of how the U.S. President handled the situation?,To what extent do you disapprove or approve of how the U.S. President handled the situation?,"1.        Strongly Disapprove
+2.        Disapprove
+3.        Lean Toward Disapproving
+4.        Neither Approve Nor Disapprove
+5.        Lean Toward Approving
+6.        Approve
+7.        Strongly Approve",1-7,Strongly Disapprove,Strongly Approve,1,0,1,,"H1a: Female leaders pay greater inconsistency costs compared to the male-male crisis dyad.
+H1b: Female leaders pay lower belligerence costs compared to the male-male crisis dyad.
+",2;8 > 5;11,3;9 < 6;12,X,X
+CalarcoS38,Public Perceptions of Prenatal Alcohol Consumption,1,Q7,Approval,,,"1	Strongly approve
+2	Approve
+3	Neither approve nor disapprove
+4	Disapprove
+5	Strongly disapprove
+77	DON'T KNOW
+98	SKIPPED ON WEB
+99	REFUSED",1-5,Strongly Approve,Strongly Disapprove,0,0,1,Question wording depends on condition. different conditions use different wording,"We expect to find that women face high levels of scrutiny for drinking even small amounts of alcohol during pregnancy, especially when respondents are warned of the medical community’s stance on prenatal alcohol consumption. We also expect that lower social class women engaging in light drinking will experience more scrutiny than higher social class women who drink the same amount, and that respondents who are themselves less advantaged will be the most critical of women who consume.",1;2;7;8 < 3;4;5;6;9;10;11;12,1;2;7;8 < 3;4;9;10,3;4 < 9;10,
+Cohen1099,Social Class; College Debt; and the Purpose of College,1,Q1,History,How unlikely or likely would you be to recommend history?,How unlikely or likely would you be to recommend history?,"1	Very unlikely
+2	Moderately unlikely
+3	Slightly unlikely
+4	Slightly likely
+5	Moderately likely
+6	Very likely
+98	SKIPPED ON WEB",1-6,Very unlikely,Very likely,1,0,1,question/condition text has html tags,"the public may be more likely to recommend academic majors for students already in possession of elite cultural capital—i.e., students fromhigher-SESbackgrounds
+the public may be more likely to recommend applied majors for indebted students
+the public will be more likely to recommend female-dominated majors for female students,and male-dominated majors for male students
+
+male-and female-skewed majors in academic STEM fields (physics and biology),academic non-STEM(historyand English), applied STEM (computer science and nursing), and applied non-STEM (accounting and communications",1;2;3;4;5;6;7;8;9;10;11;12 > 13;14;15;16;17;18;19;20;21;22;23;24,,,
+Cohen1099,"Social Class, College Debt, and the Purpose of College",2,Q2,Nursing,How unlikely or likely would you be to recommend nursing?,How unlikely or likely would you be to recommend nursing?,"1	Very unlikely
+2	Moderately unlikely
+3	Slightly unlikely
+4	Slightly likely
+5	Moderately likely
+6	Very likely
+98	SKIPPED ON WEB",1-6,Very unlikely,Very likely,1,0,1,,,1;2;3;4;5;6;7;8;9;10;11;12 < 13;14;15;16;17;18;19;20;21;22;23;24,9;10;11;12;21;22;23;24 < 5;6;7;8;17;18;19;20,,
+Cohen1099,"Social Class, College Debt, and the Purpose of College",3,Q3,Accounting,How unlikely or likely would you be to recommend accounting?,How unlikely or likely would you be to recommend accounting?,"1	Very unlikely
+2	Moderately unlikely
+3	Slightly unlikely
+4	Slightly likely
+5	Moderately likely
+6	Very likely
+98	SKIPPED ON WEB",1-6,Very unlikely,Very likely,1,0,1,,,1;2;3;4;5;6;7;8;9;10;11;12 > 13;14;15;16;17;18;19;20;21;22;23;24,9;10;11;12;21;22;23;24 < 5;6;7;8;17;18;19;20,,
+HamiltonS31,Whom Do You Believe? Assessing Credibility of the Accuser and Accused in Sexual Assault,1,Q1A,belief_man_first,Would you be more inclined to believe the man or the woman?,Would you be more inclined to believe the man or the woman?,"1	Man
+2	Woman
+77	DON'T KNOW
+98	SKIPPED ON WEB
+99	REFUSED",1-2,Man,Woman,-,0,1,,,x,x,x,
+KrupnikovS34,The Partisan Gender Gap: Genuine Attachment or Social Motivation?,1,Q5,partisanship,,,"1        Strong Democrat
+2        Not a strong Democrat
+3        Independent, but lean Democrat
+4        Independent
+5        Independent, but lean Republican
+6        Not a strong Republican
+7        Strong Republican
+98        SKIPPED ON WEB",1-7,Strong Democrat,Strong Republican,-,0,0,,,x,x,x,
+Melin1066,Testing a Theory of Hybrid Femininity,1,Q1,salary,"If hired, what salary would you recommend for this applicant within the following suggested range?","If hired, what salary would you recommend for this applicant within the following suggested range?","$35,000    -    $225,000",35000- 225000,"$35,000","$225,000",1,0,1,,,4 vs 1,6 vs 3,5 vs 2,
+Melin1066,Testing a Theory of Hybrid Femininity,2,Q4_1,Capable,"On a scale from 1 “Not at all” to 7 “Extremely”, to what extent do you perceive this applicant as capable?",To what extent do you perceive this applicant as capable?,"1	1 Not at all
+2	2
+3	3
+4	4
+5	5
+6	6
+7	7 Extremely
+77	DON'T KNOW
+98	SKIPPED ON WEB
+99	REFUSED",1-7,Not at all,Extremely,1,0,1,,,4 vs 1,6 vs 3,5 vs 2,
+Melin1066,Testing a Theory of Hybrid Femininity,3,Q7_1,masculine,"On a scale from 1 “Not at all” to 7 “Extremely”, to what extent do you perceive this applicant as masculine?
+","To what extent do you perceive this applicant as masculine?
+","1. 1 – Not at all
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7 - Extremely
+",1-7,Not at all,Extremely,1,0,1,,,4 vs 1,6 vs 3,5 vs 2,
+Silverman1035,Can Factual Misperceptions be Corrected? An Experiment on American Public Fears of Terrorism,1,Q3,Americans_Killed,About how many Americans are killed each year by terrorism on U.S. soil?,About how many Americans are killed each year by terrorism on U.S. soil?,"1	87
+2	8,700
+3	87,000
+98	SKIPPED ON WEB",1-3,87,"87,000",1,0,0,,"1. whether corrective information about the actual risk of terrorism facing Americans will mitigate misperceptions. 
+2. Our core hypothesis is that the efficacy of this “corrective message” will hinge on endorsements of this new information by political elites.
+3. we test the impact of an endorsement from elites that can claim partisan ownership of the terrorism issue in recent years (Republicans), and (4) have credibility and trust across partisan lines (military officer).
+
+",1 > 2;3;4;5,2 > 3;4;5,2 > 4,2 > 5
+Silverman1035,Can Factual Misperceptions be Corrected? An Experiment on American Public Fears of Terrorism,2,Q4,Terrorism_worry,How worried are you that you will become a victim of terrorism?,How worried are you that you will become a victim of terrorism?,"1	Very worried
+2	Somewhat worried
+3	Not too worried
+4	Not worried at all
+77	Don’t know
+98	SKIPPED ON WEB",1-4,Very worried,Not worried at all,0,0,0,,"1. whether corrective information about the actual risk of terrorism facing Americans will mitigate misperceptions. 
+2. Our core hypothesis is that the efficacy of this “corrective message” will hinge on endorsements of this new information by political elites.
+3. we test the impact of an endorsement from elites that can claim partisan ownership of the terrorism issue in recent years (Republicans), and (4) have credibility and trust across partisan lines (military officer).
+
+",1 < 2;3;4;5,2 < 3;4;5,2 < 4,2 < 5
+Silverman1035,Can Factual Misperceptions be Corrected? An Experiment on American Public Fears of Terrorism,3,Q5,Terrorism_likely,How likely do you think it is that another terrorist attack causing large numbers of American lives to be lost will happen in the near future?,How likely do you think it is that another terrorist attack causing large numbers of American lives to be lost will happen in the near future?,"1	Very likely
+2	Somewhat likely
+3	Not very likely
+4	Not likely at all
+77	Don’t know
+98	SKIPPED ON WEB",1-4,Very likely,Not likely at all,0,0,0,,"1. whether corrective information about the actual risk of terrorism facing Americans will mitigate misperceptions. 
+2. Our core hypothesis is that the efficacy of this “corrective message” will hinge on endorsements of this new information by political elites.
+3. we test the impact of an endorsement from elites that can claim partisan ownership of the terrorism issue in recent years (Republicans), and (4) have credibility and trust across partisan lines (military officer).
+
+",1 < 2;3;4;5,2 < 3;4;5,2 < 4,2 < 5
+HankinsonS22,Burden Sharing and Collective Action: A Study of Opinion on Opioid Treatment Funding,2,Q2,Clinic_support,,,"1	Strongly support
+2	Somewhat support
+3	Neither support nor oppose
+4	Somewhat oppose
+5	Strongly oppose
+77	DON'T KNOW
+98	SKIPPED ON WEB
+99	REFUSED",1-5,Strongly support,Strongly oppose,0,0,1,the variable's wording depends on condition,,1 > 2,,,
+Harbridge-Yong1032,You Can't Always Get What You Want: How Majority-Party Agenda-Setting and Ignored Alternatives Shape Public Attitudes,1,Q2,Confidence_congress,How much confidence do you have in the U.S. Congress?,How much confidence do you have in the U.S. Congress?,"1	None
+2	A little
+3	A moderate amount
+4	A lot
+5	A great deal
+98	SKIPPED ON WEB",1-5,None,A great deal,1,0,0,ASHWINI FIX HYPOTHESIS,,,,,
+Harbridge-Yong1032,You Can't Always Get What You Want: How Majority-Party Agenda-Setting and Ignored Alternatives Shape Public Attitudes,2,Q3,Article_Support,"In the article you just read, what did you think of the bill that was proposed and passed by the majority party?","In the article you just read, what did you think of the bill that was proposed and passed by the majority party?","1	Strongly oppose it
+2	Somewhat oppose it
+3	Slightly oppose it
+4	Neither support nor oppose it
+5	Slightly support it
+6	Somewhat support it
+7	Strongly support it
+98	SKIPPED ON WEB",1-7,Strongly oppose it,Strongly Support it,1,0,1,,,,,,
+Harbridge-Yong1032,You Can't Always Get What You Want: How Majority-Party Agenda-Setting and Ignored Alternatives Shape Public Attitudes,3,Q4,Article_Fairness,How fair would you say the legislative process described in this article was?,How fair would you say the legislative process described in this article was?,"1	Extremely unfair
+2	Somewhat unfair
+3	A little unfair
+4	Neither fair nor unfair
+5	A little fair
+6	Somewhat fair
+7	Extremely fair
+98	SKIPPED ON WEB",1-7,Extremely unfair,Extremely Fair,1,0,1,,,,,,
+Howat1039,Not all stereotypes are equal: Consequences of partisan stereotypes on polarization,1,Q2_D,Feeling_Dem,"Now we’d like to get your feelings toward some groups. Specifically, we’d like you to rate them using a feeling thermometer. Ratings between 50 degrees and 100 degrees mean that you feel favorable and warm toward the group. Ratings between 0 degrees and 50 degrees mean that you don't feel favorable toward the group and that you don't care too much for that group. You would rate the group at the 50 degree mark if you don't feel particularly warm or cold toward the group.
+
+The Democratic Party","Now we’d like to get your feelings toward some groups. Specifically, we’d like you to rate them using a feeling thermometer. 
+The Democratic Party
+",Sliding Scale 0-100,0-100,you don't feel favorable toward the group and that you don't care too much for that group,you feel favorable and warm toward the group,1,0,0,BORDERLINE. This is a feeling thermometer scale that asks about both dems and reps. Here we list only the dem scale. the republican feelings question is Q2_R. WEIRD,,x,x,x,
+Howat1039,Not all stereotypes are equal: Consequences of partisan stereotypes on polarization,2,Q3_1,Feeling_DemPartySupporters,"Where would you place the following groups on this scale?
+
+People who support the Democratic Party
+","Where would you place the following groups on this scale?
+
+People who support the Democratic Party
+","1        Extremely Liberal
+2        Liberal
+3        Slightly Liberal
+4        Moderate
+5        Slightly Conservative
+6        Conservative
+7        Extremely Conservative
+77        DON’T KNOW
+98        SKIPPED ON WEB
+99        REFUSED",1-7,Extremely Liberal,Extremely Conservative,-,0,0,"BORDERLINE . The actual outcome is Perceived ideological distance between the parties, but we are showing only the Dem item. There are 4 items: 
+1.        People who support the Democratic Party
+2.        Democrats in Congress
+3.        People who support the Republican Party
+4.        Republicans in Congress
+",,x,x,x,
+Howat1039,Not all stereotypes are equal: Consequences of partisan stereotypes on polarization,3,IDEO,Personal_ideology,"When it comes to politics, do you usually think of yourself as...","When it comes to politics, do you usually think of yourself as...","1        Extremely Liberal
+2        Liberal
+3        Slightly Liberal
+4        Moderate
+5        Slightly Conservative
+6        Conservative
+7        Extremely Conservative
+8        Haven’t thought much about it
+77        DON’T KNOW
+98        SKIPPED ON WEB
+99        REFUSED",1-7,Extremely Liberal,Extremely Conservative,-,0,0,BORDERLINE . The actual outcome variable is Personal ideological polarization: They fold this item's response into a 4-point scale where higher values indicate greater ideological extremity.,,x,x,x,
+Kennedy1017,Accidental Environmentalists: Examining the Effect of Income on Positive Social Evaluations of Environmentally-Friendly Lifestyles,1,Q1,Family_approval,How much do you approve of this family?,How much do you approve of this family?,"1	0 Not at all
+2	1
+3	2
+4	3
+5	4
+6	5
+7	6
+8	7
+9	8
+10	9
+11	10 Very much
+98	SKIPPED ON WEB",1-11,Not at All,Very much,1,0,1,sliding scale,"1. Are high-income households with a green lifestyle judged more favorably than low-income green households?
+Additional questions are:
+2. Do people approve of efforts to reduce environmental impact?
+3. Does the political ideology of the evaluator affect judgments?
+",2 < 4,1;3 < 2;4,,
+Kennedy1017,Accidental Environmentalists: Examining the Effect of Income on Positive Social Evaluations of Environmentally-Friendly Lifestyles,2,Q2,Family_friends,"If this family moved to your neighborhood, how interested would you be in being friends with them?","If this family moved to your neighborhood, how interested would you be in being friends with them?","1	0 Not at all
+2	1
+3	2
+4	3
+5	4
+6	5
+7	6
+8	7
+9	8
+10	9
+11	10 Very
+98	SKIPPED ON WEB",1-11,Not at all,Very,1,0,1,sliding scale,"1. Are high-income households with a green lifestyle judged more favorably than low-income green households?
+Additional questions are:
+2. Do people approve of efforts to reduce environmental impact?
+3. Does the political ideology of the evaluator affect judgments?
+",2 < 4,1;3 < 2;4,,
+Kennedy1017,Accidental Environmentalists: Examining the Effect of Income on Positive Social Evaluations of Environmentally-Friendly Lifestyles,3,Q3,Family_knowledge,How knowledgeable is this family?,How knowledgeable is this family?,"1	0 Not at all
+2	1
+3	2
+4	3
+5	4
+6	5
+7	6
+8	7
+9	8
+10	9
+11	10 Very
+98	SKIPPED ON WEB",1-11,Not at all,Very,1,0,1,sliding scale,"1. Are high-income households with a green lifestyle judged more favorably than low-income green households?
+Additional questions are:
+2. Do people approve of efforts to reduce environmental impact?
+3. Does the political ideology of the evaluator affect judgments?
+",2 < 4,1;3 < 2;4,,
+McCabeS19,Public Opinion and Attributions for Health Care Costs,1,Q11A,Attribution,"Suppose <u>you</u> received an unexpected medical bill, and the amount you had to pay out-of-pocket was expensive and difficult to pay in full. 
+
+If you received this type of medical bill, who would deserve the blame for your experience?
+
+<i>Rank the following, where 1= deserves the <u>most blame</u>, 2= the second most blame, 3= the third most blame, 4= the fourth most blame, 5= the<u>least</u> blame.</i> 
+A.        Republicans in government, for failing to address rising health care costs. 
+B.        Democrats in government, for failing to address rising health care costs.
+C.        A health care provider, for failing to be transparent about costs or provide affordable services.
+D.        A health insurance company, for failing to provide adequate coverage for medical care. 
+E.        You, as the consumer, for failing to save enough money or purchase adequate health insurance.
+
+What rank would you assign for the first item in the list (Republicans in government, for failing to address rising health care costs)?
+
+
+
+","Suppose <u>you</u> received an unexpected medical bill, and the amount you had to pay out-of-pocket was expensive and difficult to pay in full. 
+
+If you received this type of medical bill, who would deserve the blame for your experience?
+
+<i>Rank the following.</i> 
+A.        Republicans in government, for failing to address rising health care costs. 
+B.        Democrats in government, for failing to address rising health care costs.
+C.        A health care provider, for failing to be transparent about costs or provide affordable services.
+D.        A health insurance company, for failing to provide adequate coverage for medical care. 
+E.        You, as the consumer, for failing to save enough money or purchase adequate health insurance.
+
+What rank would you assign for the first item in the list (Republicans in government, for failing to address rising health care costs)?
+","1.        1 – Most blame
+2.        2 – Second most blame 
+3.        3 – Third most blame
+4.        4 – Fourth most blame
+5.        5 – Least blame",1-5,Most blame,Least blame,0,0,0,"we added the line: ""What rank would you assign for the first item in the list?"" to the outcome text",,x,x,x,
+McCabeS19,Public Opinion and Attributions for Health Care Costs,2,Q12A,Contact,"Suppose <u>you</u> received an unexpected medical bill, and the amount you had to pay out-of-pocket was expensive and difficult to pay in full. 
+
+Which of the following people would you contact about the bill? 
+
+<i>Rate each group of people on a scale from “Definitely would not contact” to “Definitely would contact.” </i>
+
+A congressman or senator's office
+","Suppose <u>you</u> received an unexpected medical bill, and the amount you had to pay out-of-pocket was expensive and difficult to pay in full. 
+
+Which of the following people would you contact about the bill? 
+
+<i>Rate each group of people on a scale from “Definitely would not contact” to “Definitely would contact.” </i>
+
+A congressman or senator's office
+","1.        Definitely would not contact
+2.        Probably would not contact
+3.        May or may not contact
+4.        Probably would contact 
+5.        Definitely would contact",1-5,Definitely would not contact,Definitely would contact,1,0,0,,,x,x,x,
+MunschS68,Gender and the Disparate Payoffs of Overwork,1,Q1_MUNSCH,Morgan_Committed,,,"1        1 - not at all committed
+2        2
+3        3
+4        4
+5        5
+6        6
+7        7 - extremely committed
+77        DON'T KNOW
+98        SKIPPED ON WEB
+99        REFUSED",1-7,not at all committed,extremely committed,1,0,1,the condition text includes the question,"Evaluators will more favorably assess overworkers compared to identical full-time workers, controlling for relative workplace performance (H1). Men will reap significantly larger premiums for overwork than women (H2). We also explore the relative extent to which perceptions of competence, commitment, and likability underlie the allocation of organizational rewards on the basis of overwork and gender.","1,2,1; 1,1,1; 1,2,4;, 1,1,4; 1,2,8; 1,1,8; < 2,2,1; 2,1,1; 2,2,4; 2,1,4; 2,2,8; 2,1,8",x,x,
+Rifkin1073,"Introducing a Novel Framework for Understanding The Relationships Between Busyness, Idleness, and Happiness",1,Q2A,Stressed,I feel stressed,I feel stressed,"1	Strongly disagree
+2	<none>
+3	<none>
+4	<none>
+5	<none>
+6	<none>
+7	Strongly agree
+77	DON'T KNOW
+98	SKIPPED ON WEB
+99	REFUSED",1-7,Strongly Disagree,Strongly Agree,1,0,1,I think this is a sliding scale,only interaction hypothesis,x,x,x,
+RyanS14,Are losers gullible? A new test of ideological asymmetry in conspiracy beliefs,1,Q2,rumor true - laundered money,,,"1        This event definitely occurred
+2        This event probably occurred
+3        This event might have occurred
+4        This event probably did not occur
+5        This event definitely did not occur
+77        DON’T KNOW
+98        SKIPPED ON WEB
+99        REFUSED",1-5,This event definitely occurred,This event definitely did not occur,0,0,1,,no main effect hypotheses,x,x,x,x
+Schnabel903,"Are Religions Gender-Typed? The Perceived Femininity and Masculinity of Christians, Jews, Muslims, and Atheists",1,Q1,Feminine,Feminine,Feminine,"1        Not at all
+2        2
+3        3
+4        4
+5        5
+6        6
+7        Very Well
+98        SKIPPED ON WEB",1-7,1,7,1,0,1,,,2;3;4;6;7;8 < 1;5,,,
+Schnabel903,"Are Religions Gender-Typed? The Perceived Femininity and Masculinity of Christians, Jews, Muslims, and Atheists",2,Q2,Masculine,Masculine,Masculine,"1        Not at all
+2        2
+3        3
+4        4
+5        5
+6        6
+7        Very Well
+98        SKIPPED ON WEB",1-7,1,7,1,0,1,,,2;3;4;6;7;8 > 1;5,,,
+ShannonS2,Are Americans Willing to Reject a Fiscal Benefit to Exclude Immigrants from Public Entitlements?,1,"Q1,Q4,Q7,Q10,Q13,Q16",tax credit effective,,,"1         Strongly disagree
+2         Disagree
+3         Neither agree nor disagree
+4         Agree
+5         Strongly agree
+77         Don’t know
+98           SKIPPED ON WEB
+99         REFUSED",1-5,Strongly disagree,Strongly agree,1,0,1,,hypotheses: 1. U.S.  citizens’concerns  about  immigrants  trigger exclusionary  preferences;  2.   unauthorized  immigrants  intensify  thesenegativepreferences;  and  that 3. concrete numerical information emphasizinga social and economic benefit of the policieswill help to reduce opposition to immigrant participation.,1 > 3,3 > 5,3;5 < 4;6,
+ShannonS28,Does Harsh Language Referring to Immigrants Translate into Harsher Preferences for Immigration Policies – Or Is It All Politics?,1,"Q1,Q2",immigrant intake,Do you think the number of immigrants to America should be....,Do you think the number of immigrants to America should be....,"1        Increased a lot
+2        Increased a little
+3        Remain the same as it is
+4        Reduced a little
+5        Reduced a lot
+77        DON’T KNOW
+98        SKIPPED ON WEB
+99        REFUSED",1-5,Increased a lot,Reduced a lot,0,0,0,,no predictions for this dv,x,x,x,x
+Terman1029,"Human Rights Shaming, Compliance, and Nationalist Backlash",1,Q4_A,naitonalist superiority,"Please read the following statements and indicate your level of agreement or disagreement: 
+The world would be a better place if other countries were more like the United States.","Please read the following statements and indicate your level of agreement or disagreement: 
+The world would be a better place if other countries were more like the United States.","1        Strongly Disagree
+2        Disagree
+3        Neither Agree nor Disagree
+4        Agree
+5        Strongly Agree
+77        DON'T KNOW
+98        SKIPPED ON WEB
+99        REFUSED",1-5,Strongly Disagree,Strongly Agree,1,0,0,,,"1,0,0,0,0 vs 0,1,0,0,0; 0,0,1,0,0; 0,0,0,1,0; 0,0,0,0,1","0,0,1,0,0 < 0,1,0,0,0","0,0,0,1,0 < 0,0,0,0,1",
+Terman1029,"Human Rights Shaming, Compliance, and Nationalist Backlash",2,Q5_A,perception of domestic human rights conditions,"Please read the following statements and indicate your level of agreement or disagreement:
+The United States government needs to take concrete steps to reform the criminal justice system to ensure detainees’ human rights are protected.","Please read the following statements and indicate your level of agreement or disagreement:
+The United States government needs to take concrete steps to reform the criminal justice system to ensure detainees’ human rights are protected.","1        Strongly Disagree
+2        Disagree
+3        Neither Agree nor Disagree
+4        Agree
+5        Strongly Agree
+77        DON'T KNOW
+98        SKIPPED ON WEB
+99        REFUSED",1-5,Strongly Disagree,Strongly Agree,1,0,0,,"hyp1: 0 vs 1;2;3;4       
+hyp 2: 2 > 1
+hyp 3: 3 > 4","1,0,0,0,0 vs 0,1,0,0,0; 0,0,1,0,0; 0,0,0,1,0; 0,0,0,0,1","0,0,1,0,0 > 0,1,0,0,0","0,0,0,1,0 > 0,0,0,0,1",
+Terman1029,"Human Rights Shaming, Compliance, and Nationalist Backlash",3,Q7,donating to HRAC,"Are you willing to donate $1 to the Human Rights Action Committee to support their campaign to push for criminal justice reforms in the US? If you select 'Yes', a link to the donation page will appear at the end of this survey.","Are you willing to donate $1 to the Human Rights Action Committee to support their campaign to push for criminal justice reforms in the US? If you select 'Yes', a link to the donation page will appear at the end of this survey.","1        Yes
+2        No
+77        DON'T KNOW
+98        SKIPPED ON WEB
+99        REFUSED",1-2,Yes,No,0,0,0,,,"1,0,0,0,0 vs 0,1,0,0,0; 0,0,1,0,0; 0,0,0,1,0; 0,0,0,0,1","0,0,1,0,0 < 0,1,0,0,0","0,0,0,1,0 < 0,0,0,0,1",
+Bougher893,Issue (Dis)agreement and Intergroup Bias in Affective Polarization,1,Q5A,warmth Candidate A,"Using the feeling thermometer (where 0 means you feel as cold and negative as possible, 100 means you feel as warm and positive as possible, and 50 means you don’t feel particularly positive or negative), how do you feel towards Candidate A?","Using the feeling thermometer, how do you feel towards Candidate B",0-100,0-100,you feel as cold and negative as possible,you feel as warm and positive as possible,1,0,0,,,x,x,x,
+Bougher893,Issue (Dis)agreement and Intergroup Bias in Affective Polarization,2,Q5B,warmth Candidate B,"Using the feeling thermometer (where 0 means you feel as cold and negative as possible, 100 means you feel as warm and positive as possible, and 50 means you don’t feel particularly positive or negative), how do you feel towards Candidate B?","Using the feeling thermometer, how do you feel towards Candidate A",0-100,0-100,you feel as cold and negative as possible,you feel as warm and positive as possible,1,0,0,,,x,x,x,
+Bougher893,Issue (Dis)agreement and Intergroup Bias in Affective Polarization,3,"Q6A_0, Q6A_1",warmth gop,"Using the feeling thermometer (where 0 means you feel as cold and negative as possible, 100 means you feel as warm and positive as possible, and 50 means you don’t feel particularly positive or negative), how do you feel towards the Republican Party?","Using the feeling thermometer, how do you feel towards the Republican Party",0-100,0-100,you feel as cold and negative as possible,you feel as warm and positive as possible,1,0,0,,,x,x,x,
+FarrowS6,Does Misery Love Company?: Exploration of a Strategic Intervention to Improve Well-being,1,"S1,S2",Disappointment,"On a scale of 1-7, where 1 is not at all disappointed and 7 is extremely disappointed, please rate how you feel about this change below",Please rate how you feel about this change below,"1        Not at all disappointed1
+2        Slightly disappointed2
+3        Somewhat disappointed3
+4        Moderately disappointed4
+5        Quite disappointed5
+6        Very disappointed6
+7        Extremely disappointed7",1-7,Not at all disappointed,Extremely disappointed,1,0,1,,we  hypothesize  that  providing  social  information  in  the  negative  scenario  will reduce  reportedlevels of disappointment.,1 > 2,,,
+Haaland874,Beliefs about Racial Discrimination,1,Q2,Racial Discrimination perception,"In the United States today, do you think that racial discrimination against blacks in the labor market is a serious problem?","In the United States today, do you think that racial discrimination against blacks in the labor market is a serious problem?","1        A very serious problem
+2        A serious problem
+3        A problem
+4        A small problem
+5        Not a problem at all
+77        DON’T KNOW
+98        SKIPPED ON WEB
+99        REFUSED",1-5,A very serious problem,Not a problem at all,0,0,0,,,2 > 1,,,
+Haaland874,Beliefs about Racial Discrimination,2,Q3,Affirmative action: Preference,Do you support or oppose government and private programs that give qualified black candidates preference over equally qualified white candidates in getting a job?,Do you support or oppose government and private programs that give qualified black candidates preference over equally qualified white candidates in getting a job?,"1        Strongly support
+2        Support
+3        Neither support nor oppose
+4        Oppose
+5        Strongly oppose
+77        DON’T KNOW
+98        SKIPPED ON WEB
+99        REFUSED",1-5,Strongly support,Strongly oppose,0,0,0,,,2 > 1,,,
+Haaland874,Beliefs about Racial Discrimination,3,Q4,Affirmative action: Assistance,Do you support or oppose government and private programs that give qualified black candidates assistance in getting a job?,Do you support or oppose government and private programs that give qualified black candidates assistance in getting a job?,"1        Strongly support
+2        Support
+3        Neither support nor oppose
+4        Oppose
+5        Strongly oppose
+77        DON’T KNOW
+98        SKIPPED ON WEB
+99        REFUSED",1-5,Strongly support,Strongly oppose,0,0,0,,,2 > 1,,,
+Williamson859,“The Taxpayer Gap”: Perceptions of the Taxpaying Population and Opposition to Welfare Spending,1,Q9A,Food stamps,"Should federal spending on the following be increased, decreased, or kept about the same?
+Food stamps","Should federal spending on the following be increased, decreased, or kept about the same?
+Food stamps","1	Increased
+2	Decreased
+3	Kept about the same
+77	DK
+98	Skipped on Web
+99	RF",1-3,Increased,Kept about the same,0,0,0,we could include this by flipping 2 and 3,"those in the FIT (Federal income tax) condition will be more likely (and All tax respondents will be less likely) to list a means-tested social safety net program among those that upset them, and that the treatments will similarly affect support for Food Stamps but not Social Security or military spending.",2 < 1,,,
+Williamson859,“The Taxpayer Gap”: Perceptions of the Taxpaying Population and Opposition to Welfare Spending,2,Q9B,Social Security,"Should federal spending on the following be increased, decreased, or kept about the same?
+Social Security","Should federal spending on the following be increased, decreased, or kept about the same?
+Social Security","1	Increased
+2	Decreased
+3	Kept about the same
+77	DK
+98	Skipped on Web
+99	RF",1-3,Increased,Kept about the same,0,0,0,we could include this by flipping 2 and 3,,2 vs 1,,,
+Williamson859,“The Taxpayer Gap”: Perceptions of the Taxpaying Population and Opposition to Welfare Spending,3,Q9C,Military,"Should federal spending on the following be increased, decreased, or kept about the same?
+Military","Should federal spending on the following be increased, decreased, or kept about the same?
+Military","1	Increased
+2	Decreased
+3	Kept about the same
+77	DK
+98	Skipped on Web
+99	RF",1-3,Increased,Kept about the same,0,0,0,we could include this by flipping 2 and 3,,2 vs 1,,,
+AnsonBRIEF60,Which Economy? Class and Partisan Biases in the Acquisition of Economic Information,1,Q1,economy_positivity,"Would you say that in the past year, the U.S. ECONOMY has gotten better, stayed the same, or gotten worse?","Would you say that in the past year, the U.S. ECONOMY has gotten better, stayed the same, or gotten worse?","1.	Much better
+2.	Better
+3.	About the same
+4.	Worse
+5.	Much worse",1-5,Much better,Much worse,0,0,0,,"1. Exposure to positive stock market information is not expected to influence respondents' overall economic positivity due to pre-treatment effects
+
+2. Exposure to positive wage growth information is expected to increase respondents' overall economic positivity
+
+3. Exposure to positive unemployment information is expected to increase respondents' overall economic positivity","2,1 = 1,1",x,x,
+AnsonBRIEF60,Which Economy? Class and Partisan Biases in the Acquisition of Economic Information,2,Q2,blue_collar_positivity,"Would you say that in the past year, BLUE-COLLAR WORKERS have been better off, the same, or worse off?","Would you say that in the past year, BLUE-COLLAR WORKERS have been better off, the same, or worse off?","1.	Much better
+2.	Better
+3.	About the same
+4.	Worse
+5.	Much worse",1-5,Much better,Much worse,0,0,0,,"When asked to evaluate the economic prosperity of blue-collar workers (which are relativelyunaected  by  changes  to  the  stock  market),  I  argue  that  those  individuals  who  seek  outstock market information will strongly update their beliefs about this group on the basis ofnew stock reports.","2,1 > 1,1",x,x,
+Braman751,"Exploring the Role of Constitutional Considerations, Public Support and Personal Preferences in Citizen Assessments of Proposed Congressional Action on Immigration and Gun Control",1,B09,scholar_credibility,Do you think that constitutional law scholars are credible experts with regard to this issue of Congressional Authority?,Do you think that constitutional law scholars are credible experts with regard to this issue of Congressional Authority?,"1.	Yes
+2.	No
+3.	Don't Know",1-2,Yes,No,0,0,1,,"1. Rules will influence assessments of legitimacy
+2. Popular support will influence assessments
+3. Participants policy views will influence assessments
+4. View of appropriate national authority will influence assessments
+5. Rules will constrain the role of political factors",1;2;7;8 < 3;4;9;10,1;2;7;8; < 5;6;11;12,,
+Braman751,"Exploring the Role of Constitutional Considerations, Public Support and Personal Preferences in Citizen Assessments of Proposed Congressional Action on Immigration and Gun Control",2,B10,pass_legislation,Do YOU agree that Congress should pass the legislation described in the article?,Do YOU agree that Congress should pass the legislation described in the article?,"1.	Strongly Disagree
+2.	Disagree
+3.	Slightly  Disagree
+4.	Slightly Agree
+5.	Agree
+6.	Strongly Agree",1-6,Strongly Disagree,Strongly agree,1,0,1,,"1. Rules will influence assessments of legitimacy
+2. Popular support will influence assessments
+3. Participants policy views will influence assessments
+4. View of appropriate national authority will influence assessments
+5. Rules will constrain the role of political factors",2;4;6;8;10 < 1;3;5;7;9;11,,,
+Braman751,"Exploring the Role of Constitutional Considerations, Public Support and Personal Preferences in Citizen Assessments of Proposed Congressional Action on Immigration and Gun Control",3,B12,legitimacy,"Finally, which of the following reflects your views about whether it would be a legitimate (or appropriate) exercise of authority for Congress to pass this legislation?
+","Finally, which of the following reflects your views about whether it would be a legitimate (or appropriate) exercise of authority for Congress to pass this legislation?
+","
+1.	Clearly Legitimate
+2.	Probably Legitimate
+3.	Perhaps Legitimate
+4.	Neutral
+5.	Perhaps Not Legitimate
+6.	Probably  Not Legitimate
+7.	Clearly Not Legitimate
+",1-7,Clearly Legitimate,Clearly Not Legitimate,0,0,1,,"1. Rules will influence assessments of legitimacy
+2. Popular support will influence assessments
+3. Participants policy views will influence assessments
+4. View of appropriate national authority will influence assessments
+5. Rules will constrain the role of political factors",1;2;7;8 < 3;4;9;10,1;2;7;8; < 5;6;11;12,,
+CorstangeBRIEF69,American Responses to the Syrian Refugee Crisis,2,D02,welcome_refugees,"This year, the United States plans to admit 10,000 refugees.  Overall, do you think the number of refugees allowed into the United States should be increased, decreased, or kept at the current level?","This year, the United States plans to admit 10,000 refugees.  Overall, do you think the number of refugees allowed into the United States should be increased, decreased, or kept at the current level?","1) Expand greatly
+2) Expand somewhat
+3) Keep at current level
+4) Reduce somewhat
+5) Reduce greatly",1-5,Expand greatly,Reduce greatly,0,0,0,,"3. People receiving the frame citing democracy and dictatorship will be more welcoming of refugees.
+
+4. People receiving the frame citing moderates and religious extremists will be less welcoming of refugees.",1 > 2,1 < 3,,
+WallaceS9,"International Law, (Non)Compliance, and Domestic Audience Costs",1,Q10,president_approval,"Do you approve, disapprove, or neither approve nor disapprove of the way the U.S. president handled the situation?","Do you approve, disapprove, or neither approve nor disapprove of the way the U.S. president handled the situation?","1        Strongly approve
+2        Approve
+3        Somewhat approve
+4        Neither approve nor disapprove
+5        Somewhat disapprove
+6        Disapprove
+7        Strongly disapprove
+77        DON'T KNOW
+98        SKIPPED ON THE WEB
+99        REFUSED",1-7,Strongly approve,Strongly disapprove,0,0,1,,"1) The public should exhibit greater disapproval (approval) for a leader who violates (complies with) a prior commitment than if they had made no initial promise.
+2) The level of public disapproval (approval) for a leader who violates (complies with) a prior commitment should be greater as the level of legal obligation in the commitment increases.
+
+3) The relative size of the effect on public opinion should be greater for violating a commitment than following through on a commitment, when compared to making no initial promise.
+
+","1,2 < 2,2; 3,2; 4,2",,,
+WallaceS9,"International Law, (Non)Compliance, and Domestic Audience Costs",2,Q11,credibility,How likely do you think other countries would believe threats and promises made by the president in the future?,How likely do you think other countries would believe threats and promises made by the president in the future?,"1        Very likely
+2        Likely
+3        Somewhat likely
+4        Neither likely nor unlikely
+5        Somewhat unlikely
+6        Unlikely
+7        Very unlikely
+77        DON'T KNOW
+98        SKIPPED ON THE WEB
+99        REFUSED",1-7,Very likely,Very unlikely,0,0,1,,,"1,2 < 2,2; 3,2; 4,2",,,
+Campbell1308,The Effects of Exposure to Women Candidates on Political Attitudes,1,T65_1A,Political Engagement,"Even if you’ve never thought about it, could you see yourself doing any of the following things in the future?
+Volunteer in my community","Even if you’ve never thought about it, could you see yourself doing any of the following things in the future?
+Volunteer in my community","0        0 - Not likely at all
+1        1
+2        2
+3        3
+4        4
+5        5
+6        6
+7        7
+8        8
+9        9
+10        10 - Very likely
+77        DON'T KNOW
+98        SKIPPED ON WEB
+99        REFUSED",0-10,Not likely at all,Very likely,1,0,0,,,1 < 2;3;4,,,
+Campbell1308,The Effects of Exposure to Women Candidates on Political Attitudes,2,T65_2A,Political Responsiveness,"Using the slider, please rate how much you agree or disagree with the following statement 
+A.        The political system helps people with their genuine needs
+","Using the slider, please rate how much you agree or disagree with the following statement 
+A.        The political system helps people with their genuine needs
+",0 to 10 where 0 is disagree and 10 is agree.,0-10,disagree,agree,1,0,0,,,1 < 2;3;4,,,
+Campbell1308,The Effects of Exposure to Women Candidates on Political Attitudes,3,T65_3,Gender Roles,"Please use the slider to finish the statement below using a 0-10 scale where 0 is worse, 5 is the same, and 10 is better.
+
+If we had more women in elected office, America would be…
+","If we had more women in elected office, America would be…
+","using a 0-10 scale where 0 is worse, 5 is the same, and 10 is better.",0-10,worse,better,1,0,0,,,1 < 2;3;4,,,
+senS81,Understanding Ideal Descriptive Representation,1,T089_1A,ideal_gender_male,"In your opinion, what would be the ideal composition of the U.S. House of Representatives in terms of gender? 
+Percentages must add to 100.
+A. Male","In your opinion, what would be the ideal composition of the U.S. House of Representatives in terms of gender? 
+Percentages must add to 100.
+A. Male",,0-100,0%,100%,1,0,0,the hypothesis is about the outcome being close to the nationally representative composition. hard to analyze,,X,X,X,X
+FaheyS78,"Cancel Culture for Friends, Consequence Culture for Enemies: The Effects of Ideological Congruence on Perceptions of Free Speech",1,F2,cancel culture,"Generally speaking, do you agree or disagree with the following statement:
+Cancel culture is a big problem in today’s society","Generally speaking, do you agree or disagree with the following statement:
+Cancel culture is a big problem in today’s society","1        Definitely agree that it is a problem
+2        Somewhat agree that it is a problem
+3        Neither agree nor disagree/neutral
+4        Somewhat disagree that it is a problem
+5        Definitely disagree that it is a problem
+77        DON'T KNOW
+98        SKIPPED ON WEB
+99        REFUSED",1-5,Definitely agree that it is a problem,Definitely disagree that it is a problem,0,0,0,,,1;3 > 2;4,X,X,X
+wayne841,The Emotional Substrates of Support for Authoritarian Populists,1,CandidateSupportDT,CandidateSupportDT,"Now we want you to think about the candidates running for president this year. How strongly do you support or oppose each of the following candidates? If you do not know any of these candidates, please say so.
+Donald Trump","Now we want you to think about the candidates running for president this year. How strongly do yousupport or oppose each of the following candidates? If you do not know any of these candidates, please say so.
+Donald Trump",1. Strongly support2. Somewhat support3. Slightly support4. Neither support nor oppose5. Slightly oppose6. Somewhat oppose7. Strongly oppose8. I don’t know this candidate,1-7,Strongly support,Strongly oppose,0,0,0,,all interaction hypotheses,X,X,X,X
+wayne841,The Emotional Substrates of Support for Authoritarian Populists,2,CandidateSupportHC,CandidateSupportHC,"Now we want you to think about the candidates running for president this year. How strongly do you support or oppose each of the following candidates? If you do not know any of these candidates, please say so.
+Hillary Clinton","Now we want you to think about the candidates running for president this year. How strongly do you support or oppose each of the following candidates? If you do not know any of these candidates, please say so.
+Hillary Clinton",1. Strongly support2. Somewhat support3. Slightly support4. Neither support nor oppose5. Slightly oppose6. Somewhat oppose7. Strongly oppose8. I don’t know this candidate,1-7,Strongly support,Strongly oppose,0,0,0,,all interaction hypotheses,X,X,X,X
+wayne841,The Emotional Substrates of Support for Authoritarian Populists,3,CandidateSupportBC,CandidateSupportBC,"Now we want you to think about the candidates running for president this year. How strongly do you support or oppose each of the following candidates? If you do not know any of these candidates,please say so.
+Bernie Sanders","Now we want you to think about the candidates running for president this year. How strongly do yousupport or oppose each of the following candidates? If you do not know any of these candidates,please say so.
+Bernie Sanders",1. Strongly support2. Somewhat support3. Slightly support4. Neither support nor oppose5. Slightly oppose6. Somewhat oppose7. Strongly oppose8. I don’t know this candidate,1-7,Strongly support,Strongly oppose,0,0,0,,all interaction hypotheses,X,X,X,X
+willer845,The Effects of Racial and Economic Threat on Support for the 2016 Presidential Candidates,1,C01,race_threat,"How much do you agree or disagree with the following statement?
+
+If they increase in status, racial minorities are likely to reduce the influence of white Americans in society. 
+","How much do you agree or disagree with the following statement?
+
+If they increase in status, racial minorities are likely to reduce the influence of white Americans in society. 
+","1.        Strongly disagree
+2.        2
+3.        3
+4.        4
+5.        5
+6.        6
+7.        Strongly agree
+",1-7,Strongly disagree,Strongly agree,0,0,0,This is an important mediator for the study but not necessarily an outcome variable.,"Threats on Americans’ political views, proposing a study testing the effects of these forms of threat on support for the 2016 presidential candidates. We further propose to test the effects of these threats on several attitudes and views that may serve as mediating variables, linking Americans’ responses to these forms of threat to support for Donald Trump.",2 > 3,,,
+willer845,The Effects of Racial and Economic Threat on Support for the 2016 Presidential Candidates,2,C04_1,SupportTrump,"To what extent do you support or oppose each of the following candidates:
+
+Donald Trump","To what extent do you support or oppose each of the following candidates:
+
+Donald Trump","1.        Strongly oppose
+2.        2
+3.        3
+4.        Neither support nor oppose
+5.        5
+6.        6
+7.        Strongly support
+",1-7,Strongly oppose,Strongly support,0,0,0,,,2 > 3,1>3,,
+willer845,The Effects of Racial and Economic Threat on Support for the 2016 Presidential Candidates,3,C04_2,SupportClinton,"To what extent do you support or oppose each of the following candidates:
+
+Hillary Clinton","To what extent do you support or oppose each of the following candidates:
+
+Hillary Clinton","1.	Strongly oppose
+2.	2
+3.	3
+4.	Neither support nor oppose
+5.	5
+6.	6
+7.	Strongly support",1-7,Strongly oppose,Strongly support,0,0,0,,,2 = 3,,,
+Craig735,Racial Majority & Minority Group Members' Psychological and Political Reactions to Minority Population Growth,1,Q9,Immigration,"Do you think the number of immigrants from foreign countries who are allowed to come to the U.S. to live should be increased a lot, increased a little, left the same as it is now, decreased a little, or decreased a lot?",Do you think the number of immigrants from foreign countries who are allowed to come to the U.S. to live should be...?,"1 Increased a lot
+2 Increased a little
+3 Left the same as it is now
+4 Decreased a little
+5 Decreased a lot 
+",1-5,Increased a lot,Decreased a lot,0,0,0,,"All hypotheses are interaction effects:
+1) Hispanic population growth will lead non-Hispanic minorities to express more politically conservative positions and ideology, compared with the control prime
+2) more exploratorily, Asian population growth may lead non-Asian minorities to express more politically conservative positions and ideology, compared with the control prime
+3) also explored whether cultural/system threat and group status threat serve as statistical mediators of any observed effects",x,x,x,x
+Craig735,Racial Majority & Minority Group Members' Psychological and Political Reactions to Minority Population Growth,2,Q10,Federal Funding,"Do you think the amount of federal funding dedicated to funding the U.S. military and defense departments should be increased a lot, increased a little, left the same as it is now, decreased a little, or decreased a lot?",Do you think the amount of federal funding dedicated to funding the U.S. military and defense departments should be...?,"1 Increased a lot
+2 Increased a little
+3 Left the same as it is now
+4 Decreased a little
+5 Decreased a lot",1-5,Increased a lot,Decreased a lot,0,0,0,,All hypotheses are interaction effects:,x,x,x,x
+Craig735,Racial Majority & Minority Group Members' Psychological and Political Reactions to Minority Population Growth,3,Q11,Terrorist Interrogation,How do you feel about the United States using enhanced interrogation techniques to obtain information from captured terrorists?,How do you feel about the United States using enhanced interrogation techniques to obtain information from captured terrorists?,"1 Strongly support using enhanced interrogation
+2 Somewhat support 
+3 Slightly support 
+4 Neither support nor oppose 
+5 Slightly oppose 
+6 Somewhat oppose 
+7 Strongly oppose using enhanced interrogation
+",1-7,Strongly support using enhanced interrogation,Strongly oppose using enhanced interrogation,0,0,0,,All hypotheses are interaction effects:,x,x,x,x
+Enos700,Is Modern Racism Caused by Anti-Black Affect? An Experimental Investigation of the Attitudes Measured by Modern Racism Scales,1,"A1A,A2A,A3A",modern_racism1,,,,1-5,Strongly Disagree,Strongly Agree,1,0,1,"the item looks like it would need to be reverse scored, which is why the hypothesis direction is switched","If modern racism is measuring anti-Black affect, then average levels of resentment should be higher when Blacks are included as the target group",1 < 2;3,x,x,x
+Howard823,Understanding the Expense Prediction Bias,1,"A01_A, A02_A, A03_A",predictedexpense_nextweek,Please enter your total estimated expenses (in dollars) for the next week. Your estimate should account for all the expenses you will incur except monthly expenses like rent that happen to be due in the next week.,Please enter your total estimated expenses (in dollars) for the next week. Your estimate should account for all the expenses you will incur except monthly expenses like rent that happen to be due in the next week.,$ [Number Box; Range 0-9999],0-9999,0,999,1,0,0,,"Increasing perceived atypicality of future expenses will increase expense predictions. Increasing    perceived unusualness  of  future  expenses  will  reverse EPB
+
+",1 < 2,3 < 2,x,x
+Howard823,Understanding the Expense Prediction Bias,2,B09,financial_slack,"Using the scale below, please indicate how much spare money you expect to have in the next week, compared to an average week in your life.","Using the scale below, please indicate how much spare money you expect to have in the next week, compared to an average week in your life.","1.        Very little spare money
+2.        
+3.        
+4.        
+5.        
+6.        
+7.        A lot of spare money
+",1-7,Very little spare money,A lot of spare money,1,0,0,,because underestimating   future expenses is  equivalent   tooverestimating  future financial  slack.... our remaining  hypotheses are(H4):EPB  leads  to  higher  predictions  of  future  financial  slack,1 > 2,3 > 2,x,x
+Howard823,Understanding the Expense Prediction Bias,3,B10,Willingness_to_spend_on_optional_expense,"Imagine that a friend invites you to go out for a fancy dinner next week. You will each pay for your own food and drinks. How much money would you be willing to spend on dinner, including all your food, drinks, taxes, and tip?","Imagine that a friend invites you to go out for a fancy dinner next week. You will each pay for your own food and drinks. How much money would you be willing to spend on dinner, including all your food, drinks, taxes, and tip?","1.        $0 - $10 
+2.        $11 - $20
+3.        $21 - $30 
+4.        $31 - $40
+5.        $41 - $50 
+6.        $51 - $60 
+7.        $61 - $70 
+8.        $71 - $80 
+9.        $81 - $90
+10.        $91 - $100
+11.        More than $100 
+",1-11,$0 - $10,More than $100,1,0,0,,because underestimating   future expenses is  equivalent   tooverestimating  future financial  slack.... our remaining  hypotheses are (H5): EPB leads  to greater  willingnessto spend on optional  expenses,1 > 2,3 > 2,x,x
+Krupnikov719,Does Transparency Affect Survey Research?,1,Q1_1,abortion,"Please tell us whether or not you think it should be possible for a pregnant woman to obtain a legal abortion if:
+1.        She is married and does not want any children?","Please tell us whether or not you think it should be possible for a pregnant woman to obtain a legal abortion if:
+1.        She is married and does not want any children?","1.	Yes
+2.	No
+3.	Don’t Know",1-2,yes,no,0,0,0,,"the hypotheses are about increases in people picking the ambivalent response (e.g., don't know, neither)",x,x,x,x
+Krupnikov719,Does Transparency Affect Survey Research?,2,Q2,systemic_racism,"Do you agree or disagree with the following statements:  
+
+Generations of slavery and discrimination have created conditions that make it difficult for blacks to work their way out of the lower class.","Do you agree or disagree with the following statements:  
+
+Generations of slavery and discrimination have created conditions that make it difficult for blacks to work their way out of the lower class.","1.	Agree strongly
+2.	Agree somewhat
+3.	Neither agree nor disagree
+4.	Disagree somewhat
+5.	Disagree strongly",1-5,agree strongly,disagree strongly,0,0,0,,"the hypotheses are about increases in people picking the ambivalent response (e.g., don't know, neither)",x,x,x,x
+Krupnikov719,Does Transparency Affect Survey Research?,3,Q6,income,"In 2014, what was your total family income (please approximate if you are not certain)?","In 2014, what was your total family income (please approximate if you are not certain)?","1.        Less than $10,000
+2.        $10,000 to under $20,000
+3.        $20,000 to under $30,000
+4.        $30,000 to under $40,000
+5.        $40,000 to under $50,000
+6.        $50,000 to under $75,000
+7.        $75,000 to under $100,000
+8.        $100,000 to under $150,000
+9.        $150,000 or more
+10.        Don’t know
+",1-9,"Less than $10,000","$150,000 or more",1,0,0,,"the hypotheses are about increases in people picking the ambivalent response (e.g., don't know, neither)",x,x,x,x
+KuruB67,Polls that Matter: Dynamics of Horse Race Polling and Public Evaluation of Poll Reports,1,Qkuru1,poll_accuracy,"Comparing the two polls directly, which poll do you think is more accurate in representing the public support for the likely candidates in this election?","Comparing the two polls directly, which poll do you think is more accurate in representing the public support for the likely candidates in this election?","1.        The first poll (KnowPolitics) is much more accurate than the second one (Public-Metrics)
+2.        The first poll (KnowPolitics) is somewhat more accurate than the second one (Public-Metrics)
+3.        The first poll (KnowPolitics) is a little more accurate than the second one (Public-Metrics)
+4.        Neither poll is more accurate than the other poll
+5.        The second poll (Public-Metrics) is a little more accurate than the first one (KnowPolitics)
+6.        The second poll (Public-Metrics) is somewhat more accurate than the first one (KnowPolitics)
+7.        The second poll (Public-Metrics) is much more accurate than the first one (KnowPolitics)
+",1-7,The first poll (KnowPolitics) is much more accurate than the second one (Public-Metrics),The second poll (Public-Metrics) is much more accurate than the first one (KnowPolitics),-,0,1,,"c2 and c3 will allow us to answer our first research question: Do people recognize methodological quality differences between polls with consistent results? (RQ1; C2 and C3). When polls are inconsistent, however, we expect that individuals will be responsive to methodological quality (H3; C4 and C5). 
+
+3,4<5,6",,x,x,x
+KuruB67,Polls that Matter: Dynamics of Horse Race Polling and Public Evaluation of Poll Reports,2,Qkuru2,vote_choice,"If the election were held tomorrow and it was between Hillary Clinton and Donald Trump, which candidate do you think would win and become the next President of the U.S.?","If the election were held tomorrow and it was between Hillary Clinton and Donald Trump, which candidate do you think would win and become the next President of the U.S.?","1.        Clinton is much more likely to win
+2.        Clinton is somewhat more likely to win
+3.        Clinton is a little more likely to win
+4.        Both candidates are equally likely to win
+5.        Trump is a little more likely to win
+6.        Trump is somewhat more likely to win
+7.        Trump is much more likely to win
+",1-7,Clinton is much more likely to win,Trump is much more likely to win,-,0,0,,i think all hypothesis for this variable are interactions,,x,x,x
+Levendusky741,Can We Reduce Affective Polarization in the Mass Public?,1,Q5,Thermometer_dems,We’d like you to rate how you feel towards the Democratic Party on a scale of 0 to 100. Zero means x and 100 means very favorable. Fifty means you do not feel favorable or unfavorable.  How would you rate your feeling toward the Democratic Party?,We’d like you to rate how you feel towards the Democratic Party.  How would you rate your feeling toward the Democratic Party?,Thermometer scale 0-100,0-100,very unfavorable,very favorable,1,0,0,the intended dv is warmth towards the opposition party,all predictions are for composite scores,x,x,x,x
+Levendusky741,Can We Reduce Affective Polarization in the Mass Public?,2,Q8,social_distance,"In the future, if you were to discuss politics in a group with other people, what kind of group would you be most interested in joining: one with mostly Democrats, one with mostly Republicans, or one where there is an equal mix of Democrats and Republicans?","In the future, if you were to discuss politics in a group with other people, what kind of group would you be most interested in joining: one with mostly Democrats, one with mostly Republicans, or one where there is an equal mix of Democrats and Republicans?","1.        A group of all Democrats 
+2.        A group of mostly Democrats 
+3.        A group with slightly more Democrats
+4.        A group with an equal number of Democrats and Republicans 
+5.        A group with slightly more Republicans 
+6.        A group of mostly Republicans 
+7.        A group of all Republicans 
+",1-7,A group of all Democrats,A group of all Republicans,-,0,0,the intended dv is comfort in socializing with outparty,all predictions are for composite scores,x,x,x,x
+McGinty730,Portrayals of Serious Mental Illness: Precursor to Violence or Treatable Health Condition?,1,A1,willingness_to_pay_mentalhealthservices,"Would you be willing to pay any additional taxes to improve the mental health service system in the United States?
+","Would you be willing to pay any additional taxes to improve the mental health service system in the United States?
+","1.	Yes
+2.	No",1-2,yes,no,0,0,0,,"1. How does portrayal of SMI as a treatable condition influence social stigma, willingness to pay for mental health services, and support for treatment options?
+2. How does portrayal of SMI as a precursor to violence influence social stigma, willingness to pay for mental health services, and support for treatment options?
+3. How does social stigma influence willingness to pay for mental health services and support for treatment options?
+SEE PROPOSAL",8 > 1,8 < 2;3,8 < 4;5,8 < 6;7
+McGinty730,Portrayals of Serious Mental Illness: Precursor to Violence or Treatable Health Condition?,2,B1,social_stigma,How willing would you be to have a person with serious mental illness marry into your family?,How willing would you be to have a person with serious mental illness marry into your family?,"1.        Definitely willing
+2.        Somewhat willing
+3.        Neither willing nor unwilling
+4.        Somewhat unwilling
+5.        Definitely unwilling
+",1-5,Definitely willing,Definitely unwilling,0,0,0,,"1. How does portrayal of SMI as a treatable condition influence social stigma, willingness to pay for mental health services, and support for treatment options?
+2. How does portrayal of SMI as a precursor to violence influence social stigma, willingness to pay for mental health services, and support for treatment options?
+3. How does social stigma influence willingness to pay for mental health services and support for treatment options?
+SEE PROPOSAL",8 > 1,8 < 2;3,8 < 4;5,8 < 6;7
+McGinty730,Portrayals of Serious Mental Illness: Precursor to Violence or Treatable Health Condition?,3,C1_1,treatment_support,"Please tell us how much you favor or oppose each item below.
+
+Expanding outpatient public mental health treatment options in the community","Please tell us how much you favor or oppose each item below.
+
+Expanding outpatient public mental health treatment options in the community","5-point Likert scale, strongly favor, somewhat favor, neither favor nor oppose, somewhat oppose, strongly oppose",1-5,strongly favor,strongly oppose,0,0,0,,"1. How does portrayal of SMI as a treatable condition influence social stigma, willingness to pay for mental health services, and support for treatment options?
+2. How does portrayal of SMI as a precursor to violence influence social stigma, willingness to pay for mental health services, and support for treatment options?
+3. How does social stigma influence willingness to pay for mental health services and support for treatment options?
+SEE PROPOSAL",8 > 1,8 < 2;3,8 < 4;5,8 < 6;7
+Merolla843,Emotional Reactions to Terrorism and Candidate Evaluations,1,Q1,hillary_clinton_leadership,Hillary Clinton will provide strong leadership for the nation.,Hillary Clinton will provide strong leadership for the nation.,"1.	Strongly disagree
+2.	Disagree
+3.	Slightly disagree
+4.	Neutral
+5.	Slightly agree
+6.	Agree
+7.	Strongly agree",1-7,strongly disagree,strongly agree,1,0,0,,"Anger: we  expect  that  individuals  made  angry about terrorism mayview Trump’s competency and leadership more favorably. We also expect such individuals to weigh leadership, genderstereotypes, and partisanshipmore heavily in votedecisions
+Fear: we expect that fearful individuals will pay attention to the relevant experienceof the candidates, relyingless on party and gender  stereotypes  in  trait  evaluations.Given  Clinton’sforeign  policy  experience,  we  expect  that fearful  individuals  will  come  to  perceive  her  as  more  competent  and  as  a  stronger  leader.3The careful  processing  that  comes  with fearleads  to  the  expectation that fearfulindividuals  will more heavilyweight foreign policy experience, trait evaluations, and foreign policy preferences in voting",3 < 2,1 < 2,x,x
+Merolla843,Emotional Reactions to Terrorism and Candidate Evaluations,2,Q2,trump_leadership,Donald Trump will provide strong leadership for the nation.,Donald Trump will provide strong leadership for the nation.,"1.	Strongly disagree
+2.	Disagree
+3.	Slightly disagree
+4.	Neutral
+5.	Slightly agree
+6.	Agree
+7.	Strongly agree
+",1-7,strongly disagree,strongly agree,1,0,0,,"Anger: we  expect  that  individuals  made  angry about terrorism mayview Trump’s competency and leadership more favorably. We also expect such individuals to weigh leadership, genderstereotypes, and partisanshipmore heavily in votedecisions
+Fear: we expect that fearful individuals will pay attention to the relevant experienceof the candidates, relyingless on party and gender  stereotypes  in  trait  evaluations.Given  Clinton’sforeign  policy  experience,  we  expect  that fearful  individuals  will  come  to  perceive  her  as  more  competent  and  as  a  stronger  leader.3The careful  processing  that  comes  with fearleads  to  the  expectation that fearfulindividuals  will more heavilyweight foreign policy experience, trait evaluations, and foreign policy preferences in voting",3 < 1,2 < 1,x,x
+Merolla843,Emotional Reactions to Terrorism and Candidate Evaluations,3,Q11,foreign_policy,"We would now like to ask you some questions about foreign policies.
+
+Some people believe the United States should solve international problems by using diplomacy and other forms of international pressure and use military force only if absolutely necessary. Others believe diplomacy and pressure often fail and the U.S. must be ready to use military force. On a scale of 1 to 7, where a 1 indicates that we should exhaust diplomacy and a 7 indicates that we should be ready to use military force, where would you place yourself, or haven’t you thought much about this?","We would now like to ask you some questions about foreign policies.
+
+Some people believe the United States should solve international problems by using diplomacy and other forms of international pressure and use military force only if absolutely necessary. Others believe diplomacy and pressure often fail and the U.S. must be ready to use military force.",1-Exhaust Diplomacy - 7-Should be ready to use military force,1-7,Exhaust Diplomacy,Should be ready to use military force,-,0,0,,"Anger: we  expect  that  individuals  made  angry about terrorism mayview Trump’s competency and leadership more favorably. We also expect such individuals to weigh leadership, genderstereotypes, and partisanshipmore heavily in votedecisions
+Fear: we expect that fearful individuals will pay attention to the relevant experienceof the candidates, relyingless on party and gender  stereotypes  in  trait  evaluations.Given  Clinton’sforeign  policy  experience,  we  expect  that fearful  individuals  will  come  to  perceive  her  as  more  competent  and  as  a  stronger  leader.3The careful  processing  that  comes  with fearleads  to  the  expectation that fearfulindividuals  will more heavilyweight foreign policy experience, trait evaluations, and foreign policy preferences in voting",3 < 1,3 > 2,2 < 1,x
+KlarBRIEF70,"Untangling a Dislike for the Opposing Party from a Dislike of Parties, Replication",1,"K01,K03,K05,K07,K09,K11",child_marries_dem,,,"1. Very unhappy 
+2. Somewhat unhappy 
+3. Neither unhappy nor happy
+4. Somewhat happy
+5. Very happy 
+",1-5,Very unhappy,Very happy,1,0,0,The manipulation was the outcome wording. outcome wording is included in the condition text.,the dv is how tolerant people are of their kid marrying an outparty person.,x,x,x,x
+Iles1294,Understanding Effects of Communicating Different Types of Conflicting Information About Nutrition and Cancer Risk,1,Q1A,Confusing,"Please indicate the degree to which you agree or disagree with the following statements:
+ It is not always clear to me what foods are best for me to eat.","Please indicate the degree to which you agree or disagree with the following statements:
+ It is not always clear to me what foods are best for me to eat.","1. Strongly disagree
+ 2. Disagree
+ 3. Somewhat disagree
+ 4. Neither disagree, nor agree
+ 5. Somewhat agree
+ 6. Agree
+ 7. Strongly agree",1-7,Strongly disagree,Strongly agree,1,0,0,,,4;8 < 1;2;3;5;6;7,1;5 < 2;6,3;7 vs 2;6,x
+Iles1294,Understanding Effects of Communicating Different Types of Conflicting Information About Nutrition and Cancer Risk,2,Q2A,Frustrated,"How much of each of the following emotions are you feeling as a result of the article you read?
+ 
+ A. Frustrated","How much of each of the following emotions are you feeling as a result of the article you read?
+ 
+ A. Frustrated","1 1 - Very slightly or not at all
+ 2 2
+ 3 3
+ 4 4
+ 5 5 - Extremely",1-5,Very slightly or not at all,Extremely,1,0,1,,,4;8 < 1;2;3;5;6;7,1;5 < 2;6,3;7 vs 2;6,x
+Iles1294,Understanding Effects of Communicating Different Types of Conflicting Information About Nutrition and Cancer Risk,3,Q3A,collaborative,"In your opinion, scientists or science experts are:","In your opinion, scientists or science experts are:","1 1 - Non-collaborative
+ 2 2
+ 3 3
+ 4 4
+ 5 5
+ 6 6
+ 7 7 - Collaborative",1-7,Non-collaborative,Collaborative,1,0,0,,,4;8 > 1;2;3;5;6;7,1;5 > 2;6,3;7 vs 2;6,x
+Mezzapelle1439,Do Victims’ Race and Gender Identity Interact to Predict the Perceived Credibility of Sexual Harassment Claims?,1,Q3,BELIEVABLE,"Based on the information I read in the incident report, I believe that Michelle’s claim is believable.","Based on the information I read in the incident report, I believe that Michelle’s claim is believable.","1. Strongly Disagree
+ 2. Disagree
+ 3. Slightly Disagree
+ 4. Neither Agree nor Disagree
+ 5. Slightly Agree
+ 6. Agree
+ 7. Strongly Agree",1-7,Strongly disagree,Strongly agree,1,0,1,,"Do third-party observers’ perceptions of a woman’s claim of workplace sexual harassment differ depending on the claimant’s race (Black or White) and/or gender identity (cisgender or transgender)? We examined this question with five outcome measures, assessing potential differences as a function of the claimant’s intersectional identity on the following:
+
+1) assumptions of the form of sexual harassment the claimant experienced
+
+2) perceived claim credibility
+
+3) perceived harm to the claimant
+
+4) support for financial compensation for the claimant
+
+5) recommended consequences for the perpetrator.",3;4 > 1;2,1;3 > 2;4,3 > 2,x
+Mezzapelle1439,Do Victims’ Race and Gender Identity Interact to Predict the Perceived Credibility of Sexual Harassment Claims?,2,Q6,PERCEIVED HARM,I believe that this experience has caused Michelle harm.,I believe that this experience has caused Michelle harm.,"1. Strongly Disagree
+ 2. Disagree
+ 3. Slightly Disagree
+ 4. Neither Agree nor Disagree
+ 5. Slightly Agree
+ 6. Agree
+ 7. Strongly Agree",1-7,Strongly disagree,Strongly agree,1,0,1,,,3;4 > 1;2,1;3 > 2;4,3 > 2,x
+Mezzapelle1439,Do Victims’ Race and Gender Identity Interact to Predict the Perceived Credibility of Sexual Harassment Claims?,3,Q7,COMPENSATION,"If Michelle sought financial compensation through litigation for the harassment she reported, I would be likely to find in favor of Michelle.","If Michelle sought financial compensation through litigation for the harassment she reported, I would be likely to find in favor of Michelle.","1. Strongly Disagree
+ 2. Disagree
+ 3. Slightly Disagree
+ 4. Neither Agree nor Disagree
+ 5. Slightly Agree
+ 6. Agree
+ 7. Strongly Agree",1-7,Strongly disagree,Strongly agree,1,0,1,,,3;4 > 1;2,1;3 > 2;4,3 > 2,x
+SchaadS62,Telling the Story Right: Explaining Support for Transgender and Non-Binary Rights,1,Q1_SCHAAD,still_identify,,,"1 1 - Extremely unlikely
+ 2 2
+ 3 3
+ 4 4
+ 5 5
+ 6 6
+ 7 7 - Extremely likely
+ 77 DON'T KNOW
+ 98 SKIPPED ON WEB
+ 99 REFUSED",1-7,Extremely unlikely,Extremely likely,1,0,1,Question text is in condition,,1;2;3;4 vs 5;6;7;8,1;2;5;6 vs 3;4;7;8,1;3;5;7 vs 2;4;6;8,x
+Connors1226,Everyone’s Doing It: Affective Polarization is Inflated by Social Pressure,1,Q4,rate_democrats,"How would you rate Democrats?
+ 
+ Ratings between 50 degrees and 100 degrees mean that you feel favorable and warm toward the party. Ratings between 0 degrees and 50 degrees mean that you don’t feel favorable toward the party and that you don’t care too much for that party. You would rate the party at the 50-degree mark if you don’t feel particularly warm or cold toward the party.",How would you rate Democrats?,,0-100,you don’t feel favorable toward the party and you don’t care too much for that party,you feel favorable and warm toward the party,1,0,0,Do we want feelings or trust or both?,,x,x,x,x
+Connors1226,Everyone’s Doing It: Affective Polarization is Inflated by Social Pressure,2,Q5,rate_republicans,"How would you rate Republicans?
+ 
+ Ratings between 50 degrees and 100 degrees mean that you feel favorable and warm toward the party. Ratings between 0 degrees and 50 degrees mean that you don’t feel favorable toward the party and that you don’t care too much for that party. You would rate the party at the 50-degree mark if you don’t feel particularly warm or cold toward the party.",How would you rate Republicans?,,0-100,you don’t feel favorable toward the party and you don’t care too much for that party,you feel favorable and warm toward the party,1,0,0,Do we want feelings or trust or both?,,x,x,x,x
+Connors1226,Everyone’s Doing It: Affective Polarization is Inflated by Social Pressure,3,Q6,trust_democrats,How much of the time do you think you can trust Democrats to do what is right for the country?,How much of the time do you think you can trust Democrats to do what is right for the country?,,1-5,Almost never,Almost always,1,0,0,Do we want feelings or trust or both?,,x,x,x,x
+Connors1226,Everyone’s Doing It: Affective Polarization is Inflated by Social Pressure,4,Q7,trust_republicans,How much of the time do you think you can trust Republicans to do what is right for the country?,How much of the time do you think you can trust Republicans to do what is right for the country?,,1-5,Almost never,Almost always,1,0,0,Do we want feelings or trust or both?,,x,x,x,x
+KlarS44,Gender Versus Party? Do Abortion Frames Affect Issue Engagement?,1,"Q1_KLAR_CONTROL, Q1_KLAR_GENDER, Q1_KLAR_PARTISAN",importance,"As you think about the upcoming Presidential election in 2020, how unimportant or important is the issue of abortion to you?","As you think about the upcoming Presidential election in 2020, how unimportant or important is the issue of abortion to you?","1.        Very unimportant
+2.        Somewhat unimportant
+3.        Neither unimportant nor important
+4.        Somewhat important
+5.        Very important
+",1-5,Very unimportant,Very important,1,0,0,,"we expect that framing abortion as a partisan issue is likely to lead supporters of abortion rights – both men and women – to perceive a greater capacity to affect change on the issue. In contrast, we anticipate that the gender treatment may be especially demobilizing for women who are supporters of abortion rights.",3 > 1,3 > 2,x,x
+KlarS44,Gender Versus Party? Do Abortion Frames Affect Issue Engagement?,2,Q2_KLAR,efficacy,"Thinking about the issue of abortion, do you agree or disagree with the following statement: 
+ 
+ As a citizen I have the power to influence what politicians do about abortion laws in America.","Thinking about the issue of abortion, do you agree or disagree with the following statement: 
+ 
+ As a citizen I have the power to influence what politicians do about abortion laws in America.","1. Strongly agree
+ 2. Somewhat agree
+ 3. Slightly agree
+ 4. Neither agree nor disagree
+ 5. Slightly disagree
+ 6. Somewhat disagree
+ 7. Strongly disagree",1-7,Strongly agree,Strongly disagree,0,0,0,,"we expect that framing abortion as a partisan issue is likely to lead supporters of abortion rights – both men and women – to perceive a greater capacity to affect change on the issue. In contrast, we anticipate that the gender treatment may be especially demobilizing for women who are supporters of abortion rights.",3 < 1,3 < 2,x,x
+KlarS44,Gender Versus Party? Do Abortion Frames Affect Issue Engagement?,3,Q3_KLAR,support_candidate,"In the coming year, how likely or unlikely are you to support a political campaign for a candidate, for example by volunteering, attending an event, putting up a yard-sign, or encouraging others to vote?","In the coming year, how likely or unlikely are you to support a political campaign for a candidate, for example by volunteering, attending an event, putting up a yard-sign, or encouraging others to vote?","1. Very likely that I will campaign for a candidate
+ 2. Somewhat likely that I will campaign for a candidate
+ 3. Not sure
+ 4. Somewhat unlikely that I will campaign for a candidate
+ 5. Very unlikely that I will campaign for a candidate",1-5,Very likely that I will campaign for a candidate,Very unlikely that I will campaign for a candidate,0,0,0,,"we expect that framing abortion as a partisan issue is likely to lead supporters of abortion rights – both men and women – to perceive a greater capacity to affect change on the issue. In contrast, we anticipate that the gender treatment may be especially demobilizing for women who are supporters of abortion rights.",3 < 1,3 < 2,x,x
+Stoker1063,Equivalency Framing of Societal Problems and Policy Solutions,1,ANGER,Anger,How angry does this situation make you?,How angry does this situation make you?,"1. Not angry
+ 2. A little angry
+ 3. Somewhat angry
+ 4. Fairly angry
+ 5. Quite angry
+ 6. Very angry
+ 7. Extremely angry",1-7,Not angry,Extremely angry,1,0,1,,"H1: Expressions of concern about the negatively-framed problem should exceed those found for the positively-framed problem—in terms of anger, worry, judgments of seriousness, and judgments regarding government priority.",1;3;5;7 > 2;4;6;8,x,x,x
+Stoker1063,Equivalency Framing of Societal Problems and Policy Solutions,2,WORRY,Worry,How worried are you about this problem?,How worried are you about this problem?,"1. Not worried
+ 2. A little worried
+ 3. Somewhat worried
+ 4. Fairly worried
+ 5. Quite worried
+ 6. Very worried
+ 7. Extremely worried",1-7,Not worried,Extremely worried,1,0,1,,"H1: Expressions of concern about the negatively-framed problem should exceed those found for the positively-framed problem—in terms of anger, worry, judgments of seriousness, and judgments regarding government priority.",1;3;5;7 > 2;4;6;8,x,x,x
+Stoker1063,Equivalency Framing of Societal Problems and Policy Solutions,3,SERIOUS,Serious,"In your opinion, how serious of a problem is this situation?","In your opinion, how serious of a problem is this situation?","1. Not serious
+ 2. A little serious
+ 3. Somewhat serious
+ 4. Fairly serious
+ 5. Quite serious
+ 6. Very serious
+ 7. Extremely serious",1-7,Not serious,Extremely serious,1,0,1,,"H1: Expressions of concern about the negatively-framed problem should exceed those found for the positively-framed problem—in terms of anger, worry, judgments of seriousness, and judgments regarding government priority.",1;3;5;7 > 2;4;6;8,x,x,x
+bucci1408,Accounting for the Correlation between Perceived Risks and Rewards to Crime,1,QA1,Caught,What is the percent chance (or chances out of 100) that you would get caught by the police if you drove home?,What is the percent chance that you would get caught by the police if you drove home?,,0-100,0%,100%,1,,1,,,,,,
+bucci1408,Accounting for the Correlation between Perceived Risks and Rewards to Crime,2,QA2,Rewarding,"How rewarding on a scale of 0-100, with 100 being the most rewarding, would it be if you drove home?",How rewarding would it be if you drove home?,,0-100,least rewarding,most rewarding,1,,1,,,1;2;3;4 vs 5;6;7;8,,,
+bucci1408,Accounting for the Correlation between Perceived Risks and Rewards to Crime,3,QA3,Respect,How likely is it that you would lose respect from your family and friends if they found out that you drove home?,How likely is it that you would lose respect from your family and friends if they found out that you drove home?,"1        Extremely Unlikely
+2        Unlikely
+3        Equally Likely and Unlikely
+4        Likely
+5        Extremely Likely
+77        DON'T KNOW
+98        SKIPPED ON WEB
+99        REFUSED",1-5,Extremely unlikely,Extremely likely,1,,1,,,,,,
+bolsenM6,Do Messages That Encourage the Use of They/Them Pronouns Influence Public Opinion?,1,B1,Using They/Them Pronouns,How uncomfortable or comfortable would you feel using they/them pronouns to refer to transgender or gender non-conforming persons?,How uncomfortable or comfortable would you feel using they/them pronouns to refer to transgender or gender non-conforming persons?,"1        Extremely uncomfortable
+2        Very uncomfortable
+3        Somewhat uncomfortable
+4        Neither uncomfortable nor comfortable
+5        Somewhat comfortable
+6        Very comfortable
+7        Extremely comfortable
+77        DON'T KNOW
+98        SKIPPED ON WEB
+99        REFUSED",1-7,Extremely uncomfortable,Extremely comfortable,1,,0,,,2 > 1,3 > 1,4 > 1,
+bolsenM6,Do Messages That Encourage the Use of They/Them Pronouns Influence Public Opinion?,2,B2,They/Them Pronouns in Forms,"To what extent do you disagree or agree with the following statement: “When a form or online profile asks about a person's gender, it should include they/them options for transgender or gender non-conforming individuals”?","To what extent do you disagree or agree with the following statement: “When a form or online profile asks about a person's gender, it should include they/them options for transgender or gender non-conforming individuals”?","1        Strongly disagree
+2        Somewhat disagree
+3        Slightly disagree
+4        Neither disagree nor agree
+5        Slightly agree
+6        Somewhat agree
+7        Strongly agree
+77        DON'T KNOW
+98        SKIPPED ON WEB
+99        REFUSED",1-7,Strongly disagree,Strongly agree,1,,0,,,2 > 1,3 > 1,4 > 1,
+bolsenM6,Do Messages That Encourage the Use of They/Them Pronouns Influence Public Opinion?,3,B3,Providing Personal Pronouns,How unwilling or willing are you to state your own pronouns to people you meet for the first time?,How unwilling or willing are you to state your own pronouns to people you meet for the first time?,"1        Extremely unwilling
+2        Very unwilling
+3        Somewhat unwilling
+4        Not sure
+5        Somewhat willing
+6        Very willing
+7        Extremely willing
+77        DON'T KNOW
+98        SKIPPED ON WEB
+99        REFUSED",1-7,Extremely unwilling,Extremely willing,1,,0,,,2 > 1,3 > 1,4 > 1,
+relihan1399,Politics and purity: The effect of elite partisan cues on pathogen perceptions,1,Q1A,Perinia Accetis superbacteria,"How serious of a threat do you find each of the following?
+
+Perinia Accetis superbacteria","How serious of a threat do you find each of the following?
+
+Perinia Accetis superbacteria","0 Not at all
+1 A little
+2 Somewhat
+3 Very
+4 A great deal
+77 DON'T KNOW
+98 SKIPPED ON WEB
+99 REFUSED",0-4,Not at all,A great deal,1,0,1,This study's sample only includes Republicans and Democrats,only interaction hypotheses,x,x,x,
+relihan1399,Politics and purity: The effect of elite partisan cues on pathogen perceptions,2,Q1B,Influenza,"How serious of a threat do you find each of the following?
+
+Influenza (seasonal flu)","How serious of a threat do you find each of the following?
+
+Influenza (seasonal flu)","0 Not at all
+1 A little
+2 Somewhat
+3 Very
+4 A great deal
+77 DON'T KNOW
+98 SKIPPED ON WEB
+99 REFUSED",0-4,Not at all,A great deal,1,0,1,This study's sample only includes Republicans and Democrats,only interaction hypotheses,x,x,x,
+relihan1399,Politics and purity: The effect of elite partisan cues on pathogen perceptions,3,Q1C,COVID-19,"How serious of a threat do you find each of the following?
+
+SARS-CoV-2 (COVID-19)","How serious of a threat do you find each of the following?
+
+SARS-CoV-2 (COVID-19)","0 Not at all
+1 A little
+2 Somewhat
+3 Very
+4 A great deal
+77 DON'T KNOW
+98 SKIPPED ON WEB
+99 REFUSED",0-4,Not at all,A great deal,1,0,1,This study's sample only includes Republicans and Democrats,only interaction hypotheses,x,x,x,
+immigration,,,,Support for Immigration,"Do you think the number of immigrants from foreign countries who are permitted to come to the United States to live should be increased a lot, increased a little, left the same as it is now, decreased a little, or decreased a lot?",,,1-5,Decreased a lot,Increased a lot,,,0,,,,,,
+death_penalty,,,,Favor Death Penalty,Do you favor or oppose the death penalty for persons convicted of murder?,,,1-4,Strongly Oppose,Strongly Favor,,,0,,,,,,
+patriot_act,,,,Patriot Act Support,Do you oppose or support the Patriot Act?,,,1-7,Oppose very strongly,Support very strongly,,,1,,,,,,
+system_threat,,,,Way of Life,Please indicate how much you agree or disagree with the following statement: The American way of life is seriously threatened.,,,1-5,Strongly Disagree,Strongly Agree,,,0,,,,,,
+brandtS1,,,,coppock_dv_name,How much control did these people have over getting into their current financial situation?,,,1-7,No control,Complete control,,,1,,,,,,
+caprarielloS2,,,,coppock_dv_name,"Think about when you engaged in your activity. How happy does it make you right now?
+",,,1-5,Neutral (or slightly unhappy),Exceptionally happy,,,1,,,,,,
+flavinS4,,,,coppock_dv_name,"How about you, do you strongly support, somewhat support, neither support nor oppose, somewhat oppose, or strongly oppose promoting political equality?",,,1-5,Strongly support,Strongly oppose,,,0,,,,,,
+gashS5,,,,coppock_dv_name,,,,1-4,Strongly agree,Strongly disagree,,,0,,,,,,
+melloS6,,,,coppock_dv_name,How likely would you be to seek legal advice about suing Dr. S?,,,1-4,Very unlikely,Very likely,,,1,,,,,,
+jacobsenS7,,,,coppock_dv_name,"Satisfaction means many things. Overall, how SATISFIED are you with Oak School based on these data?",,,1-7,Very dissatisfied,Very satisfied,,,1,,,,,,
+piazzaS8,,,,coppock_dv_name,"Please tell us if you would support or oppose each of these items as a method of getting information from a suspect in the case described earlier:
+Applying electric shocks to the suspect.",,,1-5,strongly support,strongly oppose,,,1,,,,,,
+shaferS9,,,,coppock_dv_name,Please rate how committed you think Carol is as an employee.,,,1-5,Extremely committed,Not at all committed,,,1,,,,,,
+thompsonS10,,,,coppock_dv_name,"To what extent do these statement describe your thoughts about terrorist attacks?
+I am concerned about terrorist attacks.",,,1-7,Not at all,Very much,,,0,,,,,,
+turagaS11,,,,coppock_dv_name,"Given this information and the information on the previous screen, how unwilling or willing are you to engage in the following activities?
+Write a letter to your local newspaper supporting stronger mercury control policies.",,,1-5,Very unwilling,Very willing,,,0,,,,,,
+wallaceS12,,,,coppock_dv_name,The United States is currently thinking about signing an agreement with this country that would involve cooperation over military issues. Would you support or oppose the United States signing a military agreement with this country?,,,1-5,Strongly support,Strongly oppose,,,1,,,,,,
+parmerS15,,,,coppock_dv_name,"The smallpox outbreak scenario you just read is fictional.  However, it is important that you consider what your actual responses and behavior would be in such a scenario. For the following items, please base your responses according to the scenario you just read.
+
+If you had to make a decision now, would you get the recommended smallpox vaccine?",,,0-1,No,Yes,,,1,,,,,,
+converseS16,,,,coppock_dv_name,Please indicate your personal opinion about abortion.,,,1-7,Completely pro-choice,Completely pro-life,,,0,,,,,,
+dennyS17,,,,hardworking,,,,1-5,Not at all hardworking,Extremely hardworking,,,1,,,,,,
+pedullaS18,,,,hiring recommendation,Would you recommend hiring this applicant for the position?,,,0-1,no,yes,,,1,,,,,,
+berganS20,,,,support,"Please indicate to what extent you agree with the following statements about the Independent Payment Advisory Board, the proposed commission that would limit federal spending on health care by paying only for procedures that have demonstrated medical value. 
+I support establishing the Independent Payment Advisory Board 
+",,,1-7,Disagree strongly,Agree strongly,,,1,,,,,,
